@@ -9,4 +9,8 @@
 4. To run our network, the Matlab 2019 (or higher version) software with the deep learning toolbox is required. You can select this toolbox and other necessary 
    computing components according to the system prompts during the installation of this software. After completing the above step, you need to put the files named
    FPHA (we here take the FPHA dataset as an example) and SPD_info.mat under the path '.\data\afew\'.
-   Then, run spdnet_afew.m to obtain the classification performance versus the number of training epochs.
+   Then, run spdnet_afew.m to obtain the classification performance versus the number of training epochs
+   
+# Motivation
+
+# Framework
